@@ -21,6 +21,7 @@ repo: https://github.com/BIOF309/group-project-rmndr
 - Jupyter Lab 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BIOF309/group-project-mndr/blob/master?urlpath=lab/tree/PACT%20dataset.ipynb)
 
+https://github.com/BIOF309/group-project-rmndr/blob/master/notebooks/PACT%20dataset.ipynb
 
 
 Project Organization
