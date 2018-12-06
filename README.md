@@ -1,12 +1,24 @@
-final-project-template
-==============================
+# Importing a DataSet from HealthData.gov to apply Data Visualization
+=========================================================================
 
-A template I recommend for final projects. Feel free to modify as needed!
-Based on Cookiecutter Data Science:
+*** BIOF309 Introduction to Python,  FAES Fall 2018  Final Project ***
 
-repo: https://github.com/drivendata/cookiecutter-data-science
 
-site: http://drivendata.github.io/cookiecutter-data-science/
+## Project Description
+
+My intention behind this project is to scrape the web for existing data, then submit queries against it for data visualization.
+
+While exploring the HealthData.gov site my criteria for the Dataset was to contain flat files and have a json format so that I could apply an application programming interface (API) to submit a get request for the data using python.
+
+I settled on a dataset published for the State of California on their Family Planning, Access, Care, and Treatment (Family PACT) Program.
+
+site: https://healthdata.gov/dataset/family-pact-providers-file
+
+(sourced from https://healthdata.gov/harvest_source/chhsdatacagov )
+
+repo: https://github.com/BIOF309/group-project-rmndr
+
+
 
 
 
