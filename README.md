@@ -10,7 +10,7 @@ My intention behind this project is to scrape the web for existing data, then su
 
 While exploring the HealthData.gov site my criteria for the Dataset was to contain flat files and have a json format so that I could apply an application programming interface (API) to submit a get request for the data using python.
 
-I settled on a dataset published for the State of California on their Family Planning, Access, Care, and Treatment (Family PACT) Program.
+I settled on a dataset published for the State of California on their Family Planning, Access, Care, and Treatment (Family PACT) Program.  This group also uploaded csv files.
 
 site: https://healthdata.gov/dataset/family-pact-providers-file
 
